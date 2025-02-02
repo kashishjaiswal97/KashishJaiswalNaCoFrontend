@@ -1,0 +1,5 @@
+/* aliging the list items in personal portphone div*/
+#items{
+  display: flex;
+  justify-content: center;
+}
